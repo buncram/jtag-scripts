@@ -1,0 +1,1 @@
+sudo openocd -f raspi-cm7.cfg -f cm7.cfg

@@ -1,0 +1,3 @@
+# sudo openocd -f raspi.cfg -f cramsoc.cfg
+
+sudo openocd -f jlink.cfg -f cramsoc.cfg

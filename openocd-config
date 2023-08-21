@@ -1,0 +1,1 @@
+./configure --enable-ftdi --enable-bcm2835gpio --enable-dummy --enable-sysfsgpio
